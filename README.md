@@ -14,6 +14,7 @@
 - [Ferramentas](#hammer_and_wrench-ferramentas)
 - [Como usar online](#signal_strength-como-usar-online)
 - [Como usar no ambiente local](#computer-como-usar-no-ambiente-local)
+- [Contribuidores](#man_technologistman_technologist-contribuidores)
 - [Autor](#memo-autor)
 
 
@@ -92,9 +93,19 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 </details>
 
 
+## :man_technologist::man_technologist: Contribuidores
+<details>
+  <summary><strong>Ver mais</strong></summary>
+
+Esse projeto foi desenvolvida em co-autoria com o [João Henrique](https://github.com/Joao-H).
+
+Estivemos em pair programming o tempo inteiro, então os dois são responsável por toda a aplicação.
+</details>
+
+
 ## :memo: Autor
 
-Desenvolvido por Leonardo Araujo
+Desenvolvido por Leonardo Araujo (e [contribuidores](#man_technologistman_technologist-contribuidores))
 
 Email: leonardo_02452@hotmail.com
 
