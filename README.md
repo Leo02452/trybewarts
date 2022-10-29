@@ -20,7 +20,7 @@
 
 ## :page_facing_up: Descrição
 
-Esse foi o meu primeiro projeto em dupla na Trybe. Usando HTML, CSS Flexbox e Javascript DOM, O desafio proposto no projeto foi desenvolver uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela. O tema desse projeto é baseado na obra 'Harry Potter', de J. K. Rowling.
+Esse foi o meu primeiro projeto em dupla na [Trybe](https://www.betrybe.com/). Usando HTML, CSS Flexbox e Javascript DOM, O desafio proposto no projeto foi desenvolver uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela. O tema desse projeto é baseado na obra 'Harry Potter', de J. K. Rowling.
 
 
 ## :bulb: Habilidades desenvolvidas
